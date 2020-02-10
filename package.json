@@ -1,0 +1,24 @@
+{
+  "name": "asincronismo-js",
+  "version": "1.0.0",
+  "description": "Practicando asincronismo en JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesanpi/curso-asincronismo-js-by-lesapi.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "@lesanpi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lesanpi/curso-asincronismo-js-by-lesapi/issues"
+  },
+  "homepage": "https://github.com/lesanpi/curso-asincronismo-js-by-lesapi#readme"
+}
