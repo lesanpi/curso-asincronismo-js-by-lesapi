@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/lesanpi/curso-asincronismo-js-by-lesapi/issues"
   },
-  "homepage": "https://github.com/lesanpi/curso-asincronismo-js-by-lesapi#readme"
+  "homepage": "https://github.com/lesanpi/curso-asincronismo-js-by-lesapi#readme",
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
